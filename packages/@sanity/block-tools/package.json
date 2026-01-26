@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "get-random-values-esm": "1.0.2",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@jest/globals": "^29.7.0",
